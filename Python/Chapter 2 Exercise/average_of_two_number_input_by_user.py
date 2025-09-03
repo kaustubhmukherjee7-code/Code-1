@@ -1,0 +1,5 @@
+a = input("Enter the number 1: ")
+b = input("Enter the number 2: ")
+a = float(a)
+b = float(b)
+print("The average of two number is: ",(a+b)/2)
