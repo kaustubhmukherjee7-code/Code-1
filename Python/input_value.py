@@ -1,0 +1,8 @@
+#input use to collect data from user but user defined values type is string(automatic)
+a = input("Enput number 1 = ") 
+b = input("Enput number 2 = ")
+print(type(a))
+print(type(b))
+a=float(a)
+b=float(b)
+print("a+b = ",a+b)
